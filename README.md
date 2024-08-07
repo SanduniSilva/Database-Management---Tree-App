@@ -1,5 +1,7 @@
 # Database-Management---Tree-App
 
+Scenario:
+
 <p align="justify">TreeApp is a not-for-profit social startup that wants to accelerate reforestation by using 
 technology. They are developing an app, where anyone can register and upload pictures of the 
 trees they have planted, with other information such as description, date, geo location etc. When 
